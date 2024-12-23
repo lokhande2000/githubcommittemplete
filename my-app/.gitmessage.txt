@@ -1,0 +1,8 @@
+[init]
+
+Task:
+Initialize a new Next.js project.
+
+Solution:
+Used the `npx create-next-app@latest` command to scaffold a Next.js project with default settings.
+Configured initial dependencies and set up project structure.
